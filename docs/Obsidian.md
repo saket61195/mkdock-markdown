@@ -1,4 +1,3 @@
-
 # Hi, welcome to Obsidian
 
 ---
