@@ -1,5 +1,5 @@
 
-Hi, welcome to Obsidian!
+# Hi, welcome to Obsidian
 
 ---
 
@@ -16,13 +16,14 @@ First of all, tell me a little bit about what's your experience with note-taking
 ---
 
 ## Official Help Site
+
 Check out the complete [Obsidian documentation](https://help.obsidian.md/) online, available in multiple languages.
 
 ---
 
 ## What is this place?
 
-This is a sandbox vault in which you can test various functionality of Obsidian. 
+This is a sandbox vault in which you can test various functionality of Obsidian.
 
 > [!Warning]
 > Your changes will not be saved, so please don't take actual notes in this vault.
