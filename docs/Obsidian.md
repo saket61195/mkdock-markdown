@@ -1,4 +1,4 @@
-# Hi, welcome to Obsidian
+# Obsidian Markdown
 
 ---
 
