@@ -55,6 +55,21 @@ markdown_extensions:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
+plugins:
+  - search
+  - meta-descriptions
+  - ezlinks:
+        wikilinks: true
+  - awesome-pages
+  - embed_file:
+      callouts: true
+      custom-attributes: 'assets/css/custom_attributes.css'
+  - custom-attributes:
+      file: 'assets/css/custom_attributes.css'
+  - callouts
+  - glightbox
+
+
 copyright: |
   &copy; 2023 <a href="https://github.com/saket61195"  target="_blank" rel="noopener">saket</a>
 
